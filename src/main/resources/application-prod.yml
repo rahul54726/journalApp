@@ -1,0 +1,10 @@
+
+#spring:
+  #data:
+    #: mongodb+srv://rahul23246:h0WGj4aDuDRFoAAk@cluster0.tbkvdwv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+  #    database: journaldb
+  #    auto-index-creation: true
+  #main:
+  #  allow-circular-references: true
+
+    #terminal>properties>yml

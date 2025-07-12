@@ -1,0 +1,28 @@
+#
+#spring:
+#  data:
+#    mongodb:
+#      uri: mongodb+srv://rahul23246:h0WGj4aDuDRFoAAk@cluster0.tbkvdwv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+#      database: journaldb
+#      auto-index-creation: true
+#
+#  redis:
+#      host: localhost
+#      port: 6379
+#  main:
+#    allow-circular-references: true
+#  mail:
+#    host: smtp.gmail.com
+#    port: 587
+#    username: vermarahul11034@gmail.com
+#    password: sjyutdlmjyuklsfn
+#    properties:
+#      mail:
+#        smtp:
+#          auth: true
+#          starttls:
+#            enable: true
+#    #profiles:
+#    #active: dev
+#    #terminal>properties>yml
+#weather_api_key : 412cf1319ab8d6ea74295d1fd9900533
