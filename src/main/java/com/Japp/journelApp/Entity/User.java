@@ -11,7 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Document(collection ="users")
-
+@AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Setter
 @Builder
@@ -33,7 +34,5 @@ public class User {
     private List<JournalEntry> JournalEntries = new ArrayList<>();
     private List<String> roles;
 
-    public User() {
 
-    }
 }
